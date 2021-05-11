@@ -1,0 +1,4 @@
+The web connects information while the internet connects participants. The web organizes the networks found within the internet so they are easily found and connected.
+The internet is short for internetwork which spans many networks. Connected by cable lines that transport the information from router to router to your computer clearly.
+A directory is pretty much the folder for your files. This is where you keep everything organized and helps lay out the files.
+VCS helps you file and track changes, revert back to a previous state, and simplifies collaborations. 
