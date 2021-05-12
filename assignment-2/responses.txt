@@ -1,0 +1,4 @@
+Data travels in packets throughout the internet along cables that have routers and TCP to control arrival and accuracy
+Your IP Address is the individual address given to each device on the internet. The DNS gives names to the corresponding IP Addresses.
+Cookies are used by websites to remember who you are.
+URL is 1 protocal, 2 domain name, and 3 path.
