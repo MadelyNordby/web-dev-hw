@@ -1,0 +1,19 @@
+h1, p {color: white; text-align: center;}
+
+body {background-color: rgba(0,0,0,0.5)}
+
+/*I want to figure out how to center the photos*/
+
+.square { width: 50%; height: 50%}
+
+.div { width: 50%}
+
+img { width: 400px; padding: 50px; }
+
+/*I have no idea how to control my color blocks. The reading doesn't make sense and the walkthrough didn't help, and the website with the information was confusing*/
+
+#Navy-Blue { background-color: #000080; width: 1000px; height: 500px; position: static;}
+
+#Rose-Pink { background-color: #ff66cc; width: 1000px; height: 500px;}
+
+#Golden-Yellow { background-color: #ffdf00; width: 1000px; height: 500px;  }
