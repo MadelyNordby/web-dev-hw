@@ -1,0 +1,13 @@
+body {background-color: DarkRed}
+
+h1 {background-color: White; padding: 15px; text-align: center; font-family: 'Cinzel', serif; font-weight: 1000}
+h1::first-letter {font-size: 2em}
+
+h2 {background-color: White; padding: 10px; text-align: center; font-family: 'Cinzel', serif;}
+
+.text {background-color: Silver; padding: 20px; line-height: 2em; font-family: 'Montserrat', sans-serif;}
+
+.resources {background-color: Clear; padding: 20px; line-height: 2em; font-family: 'Montserrat', sans-serif; text-align: center;}
+
+a {color: white; padding: 5px}
+a:hover {font-style: italic;}
