@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  background-color: gray;
+  padding: 50px;
+  padding-top: 100px;
+  font-size: 1.25em}
+
+h1, h2 {
+  text-align: center;
+  font-family: 'Viaoda Libre', cursive;
+  font-size: 200%; }
+
+.links {
+  background-color: black;
+  opacity: 0.7;
+  text-align: center;
+  position: fixed;
+  top: 0px;
+  left: 10px;
+  max-width: 100%;
+  right: 10px;
+  font-size: 1.5em;
+  font-family: 'Roboto', sans-serif; }
+
+.links a {
+  text-decoration: none;
+  color: white; }
+
+.info {
+  margin: 1em auto;
+  text-align: center;
+  display: inline-block;}
+
+.logo {
+  position: fixed;
+  left: 50px;
+  top: 10px;
+  background: yellow;
+  width: 75px;
+  height: 75px;
+  border: 5px solid yellow;
+  border-radius: 100%;
+  margin: auto;
+  line-height: 75px
+  }
+
+.logo:hover {
+  border-color: black; }
+
+.pages {
+  margin: 0 1em;
+  }
+
+.pages a {
+  float: center;
+  display: inline-block;
+  margin: 0.5em; }
+
+.pages a:hover {
+  color: yellow; }
+
+.text {
+  font-family: 'Roboto', sans-serif;
+  line-height: 2;
+  padding: 20px;
+  background-color: lightblue; }
+
+img {
+  width: 100%;
+  height: auto;
+
+  }
+
+
+
+/*paragraph*/
+font-family: 'Roboto', sans-serif;
+/*title*/
+font-family: 'Viaoda Libre', cursive;
