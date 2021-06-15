@@ -1,0 +1,31 @@
+.links
+  {
+    font-family: 'Noto Sans', sans-serif;
+  }
+
+.heading
+  {
+    font-family: 'Noto Sans', sans-serif;
+    text-align: center;
+  }
+
+.image
+  {
+
+  }
+
+.text
+  { font-family: 'Roboto', sans-serif;
+
+  }
+
+.contact-form
+  {
+    font-family: 'Noto Sans', sans-serif;
+  }
+
+
+/* font for headings*/
+font-family: 'Noto Sans', sans-serif;
+/* font for text*/
+font-family: 'Roboto', sans-serif;
