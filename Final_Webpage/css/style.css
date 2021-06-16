@@ -1,0 +1,51 @@
+body
+  {
+    text-align: center;
+    background-color: gray;
+    font-family: 'Roboto', sans-serif;
+
+  }
+
+.contact-form
+  {
+    background-color: #654321;
+    font-family: 'Roboto', sans-serif;
+  }
+
+.img
+  {
+    text-decoration: underline;
+    padding: 2em 2em;
+
+  }
+
+.video
+  {
+    padding: 2em 2em;
+  }
+
+.harvard
+  {
+    color:black;
+  }
+
+.harvard:hover
+  {
+    color: saddlebrown;
+    text-decoration: overline underline;
+  }
+
+ol
+  {
+    list-style-type: circle;
+  }
+li
+  {
+    margin-left: 40%;
+    text-align: left;
+  }
+
+#button:hover
+  {
+    text-decoration: overline underline;
+  }

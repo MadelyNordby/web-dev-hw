@@ -1,0 +1,31 @@
+.heading
+  {
+    font-family: 'Viaoda Libre', cursive;
+    text-decoration: underline;
+  }
+
+.numbertext
+  {
+    font-family: 'Viaoda Libre', cursive;
+
+  }
+
+.text
+  {
+    font-family: 'Roboto', sans-serif;
+    line-height: 2em;
+
+  }
+
+  #button
+    {
+      color: black;
+      font-family: 'Roboto', sans-serif;
+    }
+
+
+/* titles */
+font-family: 'Viaoda Libre', cursive;
+
+/* text */
+font-family: 'Roboto', sans-serif;
